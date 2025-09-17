@@ -34,22 +34,16 @@ I specialize in **end-to-end intelligent systems** that combine robust backends,
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-
----
-
-## 📌 Featured Projects  
-
-- 🔹 **AI-Powered Resume Analyzer** — Built with **LangChain + Hugging Face**, helps recruiters parse and rank candidates efficiently.  
-- 🔹 **Multilingual Chatbot for E-Commerce** — Integrated **OpenAI API** for real-time 24/7 multilingual customer support.  
-- 🔹 **Smart Agriculture Data Pipeline** — Designed **PySpark pipelines** for IoT data, boosting yields while reducing resource waste.  
-
-👉 [Check more projects here](#)  
-
 ---
 
 ## 📈 GitHub Stats  
 
-<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=ADRapanot&show_icons=true&theme=tokyonight\" alt=\"stats\" width=\"48%\"/>\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=ADRapanot&theme=tokyonight\" alt=\"streak\" width=\"48%\"/>\n</p>  
+<p align=\"center\">\n  
+  <img src=\"https://github-readme-stats.vercel.app/api?username=ADRapanot&show_icons=true&theme=tokyonight\" alt=\"stats\" width=\"48%\"/>
+  <br/>  
+  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=ADRapanot&theme=tokyonight\" alt=\"streak\" width=\"48%\"/>
+  <br/>
+</p>  
 
 ---
 
