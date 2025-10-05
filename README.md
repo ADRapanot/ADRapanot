@@ -1,6 +1,6 @@
 # Hi, I'm Andyvir Rapanot 👋  
 
-🚀 **Full-Stack AI Developer** with 12+ years of experience building scalable applications, AI-powered platforms, and modern frontends.  
+🚀 **Full-Stack AI Developer** with 5+ years of experience building scalable applications, AI-powered platforms, and modern frontends.  
 I specialize in **end-to-end intelligent systems** that combine robust backends, sleek interfaces, and advanced machine learning workflows.  
 
 ---
